@@ -11,8 +11,8 @@ function Table () {
       <th scope="col">ID #</th>
       <th scope="col">Full Name</th>
       <th scope="col">Phone Number</th>
-      <th scope="col">Email Address</th>
-    </tr>
+      <th scope="col">Department</th>
+      </tr>
   </thead>
   <tbody>
     <tr>
@@ -29,6 +29,12 @@ function Table () {
     </tr>
     <tr>
       <th scope="row">3</th>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
       <td></td>
       <td></td>
       <td></td>
