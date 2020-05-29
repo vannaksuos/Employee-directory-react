@@ -4,13 +4,15 @@ import React from 'react'
 
 function SearchBox () {
     return (
-        <div className="form-row">
-        <div className="col-4">
-        <div className="form-inline my-2 my-lg-0 ml-auto">
-        <input type="text" class="form-control" placeholder="Search Employee name"/>
-        </div>
-        </div>
-        </div>
+
+<div className="form-row" className="center">
+    <div className="form-group col-md-4">
+     <label for="inputEmail4">Search Employee by Name</label>
+      <input type="email" className="form-control" id="inputEmail4"/>
+    
+    <button type="button" class="btn btn-primary">Search</button>
+    </div>
+  </div>
 )}
 
 export default SearchBox
