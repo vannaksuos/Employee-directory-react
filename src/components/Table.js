@@ -3,42 +3,31 @@ import React from 'react'
 
 
 
-function Table () {
+function Table (props) {
+
     return(
         <table className="table table-dark">
 <thead>
     <tr>
-    <th scope="col">ID #</th>
+    <th scope="col"> #</th>
     <th scope="col">Full Name</th>
-    <th scope="col">Phone Number</th>
-    <th scope="col">Department</th>
+    <th scope="col">Cellphone Number</th>
+    <th scope="col">Date of Birth</th>
     </tr>
 </thead>
 <tbody>
-    <tr>
-    <th scope="row">1</th>
-    <td></td>
-    <td></td>
-    <td></td>
-    </tr>
-    <tr>
-    <th scope="row">2</th>
-    <td></td>
-    <td></td>
-    <td></td>
-    </tr>
-    <tr>
-    <th scope="row">3</th>
-    <td></td>
-    <td></td>
-    <td></td>
-    </tr>
-    <tr>
-    <th scope="row">4</th>
-    <td></td>
-    <td></td>
-    <td></td>
-    </tr>
+    {props.filterEmployees.map((employee, index) => {
+        const dob = new Date(employee.dob.date);
+        return (
+            <tr>
+            <th scope="row">{index + 1}</th>
+            <td>{employee.name.first} {employee.name.last}</td>
+            <td>{employee.cell}</td>
+            <td>{dob.toLocaleDateString()}</td>
+            </tr>
+        )
+    })}
+
 </tbody>
 </table>
     )
