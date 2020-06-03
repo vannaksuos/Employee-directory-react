@@ -68,13 +68,14 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 
-
 # ![profile pic for school](https://avatars1.githubusercontent.com/u/59664686?v=4)
 
 # Email:(null)
 
 # Deploy Github link
-https://vannaksuos.github.io/Employee-directory-react/ <br> https://github.com/vannaksuos/Employee-directory-react
+
+https://vannaksuos.github.io/Employee-directory-react/ 
+<br> https://github.com/vannaksuos/Employee-directory-react
 
 # Deploy Heroku link
 not deploy in heroku
@@ -83,37 +84,7 @@ not deploy in heroku
 
 # Badges
 
-
-# Description
-For this assignment, you'll create a employee directory with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.
-
-# Table of contents
-<br/>1. Title<br/>2. Description<br/>3. Table of Contents<br/>4. Installation<br/>5. Usage<br/>6. License<br/>7. Contributions<br/>8. Test<br/>9. Email<br/>10. Demo<br/>
-
-# Installation
-npm i axios , npm i react , npm install
-
-# Usage
-Search name, cellphone , or dob to look up employee info
-
-# License
-
-
-# ![profile pic for school](https://avatars1.githubusercontent.com/u/59664686?v=4)
-
-# Email:(null)
-
-# Deploy Github link
-https://vannaksuos.github.io/Employee-directory-react/ <br> https://github.com/vannaksuos/Employee-directory-react
-
-# Deploy Heroku link
-not deploy in heroku
-
-# Title: Employee-Directory-React
-
-# Badges
-
-
+no badges
 # Description
 
 For this assignment, you'll create a employee directory with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.
@@ -127,7 +98,7 @@ For this assignment, you'll create a employee directory with React. This assignm
 npm i axios , npm i react , npm install
 
 # Usage
-Search name, cellphone , or dob to look up employee info
+Search name, cellphone , or date of birth to look up employee info
 
 # License
 
@@ -146,7 +117,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 # Test
 
-travis ci
+no test
 
 # Email
 
