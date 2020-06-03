@@ -101,7 +101,7 @@ Search name, cellphone , or dob to look up employee info
 
 # ![profile pic for school](https://avatars1.githubusercontent.com/u/59664686?v=4)
 
-# Email:(null)
+# Email:Vannaksuos@gmail.com
 
 # Deploy Github link
 https://vannaksuos.github.io/Employee-directory-react/ <br> https://github.com/vannaksuos/Employee-directory-react
@@ -127,7 +127,7 @@ For this assignment, you'll create a employee directory with React. This assignm
 npm i axios , npm i react , npm install
 
 # Usage
-Search name, cellphone , or dob to look up employee info
+Search name, cellphone , or date of birth  to look up employee info
 
 # License
 
@@ -146,7 +146,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 # Test
 
-travis ci
+
 
 # Email
 
