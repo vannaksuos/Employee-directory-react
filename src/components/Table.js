@@ -10,7 +10,7 @@ function Table (props) {
 <thead>
     <tr>
     <th scope="col"> #</th>
-    <th scope="col">Full Name</th>
+    <th style={{cursor:"pointer"}} onClick={props.onClickSort} scope="col">Full Name</th>
     <th scope="col">Cellphone Number</th>
     <th scope="col">Date of Birth</th>
     </tr>
