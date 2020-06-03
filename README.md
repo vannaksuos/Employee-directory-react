@@ -123,11 +123,7 @@ For this assignment, you'll create a employee directory with React. This assignm
 npm i axios , npm i react , npm install
 
 # Usage
-<<<<<<< HEAD
 Search name, cellphone , or date of birth to look up employee info
-=======
-Search name, cellphone , or date of birth  to look up employee info
->>>>>>> eca62fc807205ff56a44d3150fafee0a8cc2e7d8
 
 # License
 
