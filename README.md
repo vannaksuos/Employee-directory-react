@@ -70,14 +70,13 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 # ![profile pic for school](https://avatars1.githubusercontent.com/u/59664686?v=4)
 
-# Email:(null)
+# Email:Vannaksuos@gmail.com
 
 # Deploy Github link
 
-<<<<<<< HEAD
 https://vannaksuos.github.io/Employee-directory-react/ 
 <br> https://github.com/vannaksuos/Employee-directory-react
-=======
+
 
 # Description
 For this assignment, you'll create a employee directory with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.
@@ -100,7 +99,7 @@ Search name, cellphone , or dob to look up employee info
 
 # Deploy Github link
 https://vannaksuos.github.io/Employee-directory-react/ <br> https://github.com/vannaksuos/Employee-directory-react
->>>>>>> eca62fc807205ff56a44d3150fafee0a8cc2e7d8
+
 
 # Deploy Heroku link
 not deploy in heroku
@@ -123,11 +122,8 @@ For this assignment, you'll create a employee directory with React. This assignm
 npm i axios , npm i react , npm install
 
 # Usage
-<<<<<<< HEAD
+
 Search name, cellphone , or date of birth to look up employee info
-=======
-Search name, cellphone , or date of birth  to look up employee info
->>>>>>> eca62fc807205ff56a44d3150fafee0a8cc2e7d8
 
 # License
 
@@ -145,12 +141,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 # Test
-
-<<<<<<< HEAD
 no test
-=======
-
->>>>>>> eca62fc807205ff56a44d3150fafee0a8cc2e7d8
 
 # Email
 
